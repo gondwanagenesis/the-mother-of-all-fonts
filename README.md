@@ -2,7 +2,11 @@
 
 Free fonts made from the title cards of the 1968 Engelbart demo, plus a new lowercase, about a thousand symbols and 237 one-colour emoji drawn in the same hand.
 
-Published by **The Swarm** under the **SIL Open Font License 1.1**. Use them for anything: install them, put them on websites and apps, print with them, change them, share them, ship them inside your own products. The one thing the license asks is that you don't sell the font files on their own, and that changed versions take a new name.
+Published by **The Swarm** under the **SIL Open Font License 1.1**. Use them for anything: install them, put them on websites and apps, print with them, change them, share them, ship them inside your own products. The license asks that you keep the copyright notice and `OFL.txt` with the font files, don't sell the font files on their own, and give changed versions a new name.
+
+**Please credit The Swarm.** Wherever you use these fonts, add a line such as:
+
+> Font: The Mother of All Fonts by The Swarm (swarmecology.com/fonts)
 
 ## The story
 
